@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sathya Pramod D S</h1>
-<h3 align="center">Senior Software Engineer | Python | GenAI & LLM Integration | Distributed Systems</h3>
+<h3 align="center">Senior Software Engineer Lead | Python | GenAI & LLM Integration | Distributed Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sathya-pramod-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
