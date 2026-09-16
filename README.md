@@ -8,7 +8,7 @@
 
 ---
 
-- 9+ years architecting scalable enterprise software and AI-driven automation workflows
+- 10+ years architecting scalable enterprise software and AI-driven automation workflows
 - Software Engineer at **Red Hat** — working on **Ansible** VS Code extension, language servers, and developer tools
 - Previously at **Komprise**, **NetApp** (4.5 yrs), and **TCS** (2.5 yrs)
 - M.Tech in Software Engineering from JSS University
