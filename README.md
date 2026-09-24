@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sathya Pramod D S</h1>
-<h3 align="center">Senior Software Engineer Lead | Python | GenAI & LLM Integration | Distributed Systems</h3>
+<h3 align="center">Senior Software Engineer Lead · Ansible DevTools · TypeScript · Python · GenAI & MCP</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sathya-pramod-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -8,10 +8,10 @@
 
 ---
 
-- 10+ years architecting scalable enterprise software and AI-driven automation workflows
-- Software Engineer at **Red Hat** — working on **Ansible** VS Code extension, language servers, and developer tools
+- 9+ years building developer tooling, AI-assisted workflows, and platform software at scale
+- **Senior Software Engineer Lead** at **Red Hat** — **Ansible DevTools**: VS Code extension & language server, unified LLM daemon, Ansible Automation Portal (Backstage/RHDH), and static analysis for Ansible content
 - Previously at **Komprise**, **NetApp** (4.5 yrs), and **TCS** (2.5 yrs)
-- M.Tech in Software Engineering from JSS University
+- M.Tech in Software Engineering, JSS University (SJCE), Mysuru
 
 ---
 
@@ -27,29 +27,30 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-**VS Code Extension & Tooling**
+**Developer tools & portals**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code%20API-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LSP](https://img.shields.io/badge/Language%20Server%20Protocol-5C2D91?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%20Server-000000?style=for-the-badge&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage-000000?style=for-the-badge&logo=backstage&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
+![gRPC](https://img.shields.io/badge/gRPC-244C5D?style=for-the-badge&logo=grpc&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 **AI & GenAI**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/LLM_Providers-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Agentic](https://img.shields.io/badge/Agentic_Workflows-8E44AD?style=for-the-badge&logoColor=white)
 
-**Frameworks**
+**Frameworks & testing**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
@@ -57,28 +58,41 @@
 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Tekton](https://img.shields.io/badge/Konflux%2FTekton-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Systems & OS**
+**Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
-### Key Projects
+### Recent work @ Red Hat
+
+| Project | What I work on | Stack |
+|---------|----------------|-------|
+| [**Abbenay**](https://github.com/redhat-developer/abbenay) | Unified AI daemon & core library — multi-provider LLM routing, MCP aggregation, OpenAI-compatible API, VS Code Language Model picker, security hardening & CI | TypeScript, Node.js, gRPC, MCP, Vitest |
+| [**APME**](https://github.com/ansible/apme) | Ansible Policy & Modernization Engine — parallel static analysis, policy/modernization validators, remediation workflows, and portal UI for scan quality settings | Python, React, OPA, FastAPI patterns |
+| [**Ansible Backstage Plugins**](https://github.com/ansible/ansible-backstage-plugins) | Backstage/RHDH plugins for Ansible Automation Platform — catalog sync, self-service automation, scaffolder actions, AAP auth, APME integration (e.g. Dev Spaces actions) | TypeScript, React, Backstage, Playwright |
+| [**Ansible Automation Portal**](https://github.com/ansible/ansible-rhdh-plugins) | Konflux/Tekton release pipeline for portal dynamic plugins; submodule sync from backstage plugins; EAP portal config, Helm deploy, and local portal dev overlays | Tekton, OCI, Helm, YAML |
+
+Also contributing across the **Ansible VS Code extension**, **language server**, **pytest-ansible**, **molecule**, and **team-devtools** CI/skills automation.
+
+---
+
+### Earlier career highlights
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **LAM Tool** | GenAI-powered log intelligence platform for real-time error detection, root-cause analysis, and auto-remediation using RAG pipelines | Python, Django, GenAI, RAG |
-| **Weekly Summarize Agent** | Autonomous agent that aggregates engineering status emails via NLP and distributes executive summaries through Slack & Outlook | LLMs, NLP, Slack API |
-| **d-ART** | Automated nightly regression suite with self-healing and ML-driven test selection | Python, ML, Streamlit |
+| **LAM Tool** | GenAI log intelligence with RAG for detection, root-cause analysis, and remediation | Python, Django, RAG |
+| **Weekly Summarize Agent** | LLM agent aggregating engineering status into Slack/Outlook summaries | LLMs, NLP |
+| **d-ART** | Nightly regression with ML-driven test selection and self-healing | Python, ML |
 
 ---
 
