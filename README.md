@@ -43,9 +43,6 @@ career_path:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathyapramod&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=10" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathyapramod&theme=tokyonight" />
 </p>
 
