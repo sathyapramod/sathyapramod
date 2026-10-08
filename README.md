@@ -43,7 +43,7 @@ career_path:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathyapramod&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sathyapramod&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=10" />
 </p>
 
 ---
@@ -64,8 +64,14 @@ career_path:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathyapramod&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C853&line=00C853&point=FF6B6B&area=true&area_color=00C85333" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathyapramod&theme=tokyonight" width="98%" />
 </p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathyapramod&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathyapramod&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathyapramod&theme=tokyonight&utcOffset=5.5" height="160" />
+</div>
 
 ---
 
@@ -78,8 +84,6 @@ career_path:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/sathyapramod/sathyapramod/output/github-snake-dark.svg" />
   </picture>
 </p>
-
-> 💡 *Set up the snake via [snk](https://github.com/Platane/snk) GitHub Action in your profile repo to auto-generate this animation.*
 
 ---
 
