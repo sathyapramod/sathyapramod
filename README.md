@@ -56,7 +56,7 @@ career_path:
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathyapramod&theme=tokyonight&hide_border=true&background=0d1117&ring=00C853&fire=FF6B6B&currStreakLabel=00C853&sideLabels=c9d1d9&dates=555555" />
+  <img src="https://streak-stats.demolab.com/?user=sathyapramod&theme=tokyonight&hide_border=true&background=0d1117&ring=00C853&fire=FF6B6B&currStreakLabel=00C853&sideLabels=c9d1d9&dates=555555" />
 </p>
 
 ---
@@ -97,8 +97,9 @@ career_path:
 ### Frameworks & Runtime
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,django,fastapi,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,django,vscode&theme=dark" />
   </a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### AI & GenAI
@@ -278,7 +279,7 @@ Nightly regression with ML-driven test selection and self-healing
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br/>
 
